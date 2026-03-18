@@ -1,7 +1,5 @@
 # wine-quality-analysis
 
-# Análise de Qualidade de Vinhos
-
 ##  Sobre o projeto
 
 Este projeto tem como objetivo analisar os fatores que influenciam a qualidade de vinhos tintos portugueses, utilizando técnicas de análise de dados com Python.
